@@ -3,13 +3,13 @@
 Added new packages:
 
 1. Retriving input stream and setting array
-package com.jpa.dataprocessing.DataProcessing;
+# package com.jpa.dataprocessing.DataProcessing;
 2. Student class
-package com.jpa.model.student.Student;
+# package com.jpa.model.student.Student;
 3. StudentData service with implemented sorting functionality
-package com.jpa.services.StudentDataService;
-4. Implemented sorting interfaces to work with Student objects
-package com.jpa.datasorting.*;
+# package com.jpa.services.StudentDataService;
+4. Implemented sorting interfaces to work with Student objects 
+# package com.jpa.datasorting.*;
 
 
 # T Sanchez' Spark MVC - Sprank
