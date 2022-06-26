@@ -2,13 +2,13 @@
 
 Added new packages:
 
-1. Retriving input stream and setting array
-#package com.jpa.dataprocessing.DataProcessing;
-2. Student class
-#package com.jpa.model.student.Student;
-3. StudentData service with implemented sorting functionality
-#package com.jpa.services.StudentDataService;
-4. Implemented sorting interfaces to work with Student objects 
+1. Retriving input stream and setting array <br/>
+#package com.jpa.dataprocessing.DataProcessing; <br/>
+2. Student class <br/>
+#package com.jpa.model.student.Student; <br/>
+3. StudentData service with implemented sorting functionality <br/>
+#package com.jpa.services.StudentDataService; <br/>
+4. Implemented sorting interfaces to work with Student objects <br/>
 #package com.jpa.datasorting.*;
 
 
